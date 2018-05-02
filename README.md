@@ -1,2 +1,2 @@
-# Demo_git
-Une démo de Git
+ Demo_git
+Une démo de Git qui se passe mal
